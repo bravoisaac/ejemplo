@@ -1,2 +1,2 @@
 # ejemplo 1
-ejemplo de gip
+ejemplo de gihup
